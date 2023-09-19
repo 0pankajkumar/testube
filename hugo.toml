@@ -76,9 +76,9 @@ disqusShortname = ''
 [params.author]
   avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
-  intro = "Awesome hugo blog"
-  name = "Sidharth R"
-  description = "A fast, minimalistic Hugo theme with light and dark mode support, for running a personal site or blog."
+  intro = "Pankaj Kumar"
+  name = "Pankaj Kumar"
+  description = "I am Pankaj, 29 years old, a self taught programmer and avid adventure seeker. My goal is to establish a wealth creating machine in software systems & achieve the flexibility which time and money gives. Current target is $500/month in 2023."
 
 # Allow to override webmanifest options
 [params.webmanifest]
